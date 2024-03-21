@@ -1,4 +1,2 @@
 
-<video src="/gif/glitch.gif" width="640" height="360" controls>.
-Ваш браузер не поддерживает тег <code>video</code>.
-</video>
+<img alt="glitch.gif" src="https://github.com/RushHex/RushHex/blob/main/gif/glitch.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
