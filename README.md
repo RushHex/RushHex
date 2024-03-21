@@ -1,11 +1,7 @@
 
 <div 
     style="
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-        height: 100%;
+        display: block;
 ">
 <img 
     alt="glitch.gif"
@@ -13,6 +9,7 @@
     data-hpc="true"  
     style="
         display: block;
-        margin: 0 auto;
+        width: 100%;
+        height: 100%;
 ">
 </div>
