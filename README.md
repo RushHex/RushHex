@@ -1,7 +1,7 @@
 
 <div 
     style="
-        display: block;
+        text-align: center;
 ">
 <img 
     alt="glitch.gif"
@@ -9,6 +9,7 @@
     data-hpc="true"  
     style="
         display: block;
+        text-align: center;
         width: 100%;
         height: 100%;
 ">
